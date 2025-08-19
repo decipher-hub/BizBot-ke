@@ -1,4 +1,4 @@
-# 🚀 BizBot Kenya - AI-Powered MPESA Business Analytics Platform
+#  BizBot Kenya - AI-Powered MPESA Business Analytics Platform
 
 > **Revolutionizing Kenyan retail businesses with intelligent transaction tracking, AI-powered insights, and community-driven growth.**
 
@@ -18,16 +18,16 @@
 
 BizBot Kenya is a comprehensive business intelligence platform designed specifically for Kenyan retailers who use MPESA for transactions. Our AI-powered system automatically extracts, categorizes, and analyzes MPESA transactions to provide actionable insights for business growth.
 
-### 🌟 Key Value Propositions
+###  Key Value Propositions
 
-- **🎯 MPESA-First Design**: Built specifically for Kenyan MPESA ecosystem
-- **🤖 AI-Powered Intelligence**: Machine learning for transaction categorization and predictions
-- **🔒 Enterprise Security**: End-to-end encryption and secure data handling
-- **🌍 Community Network**: Connect with suppliers, buyers, and other businesses
-- **🗣️ Voice Assistant**: Swahili and English voice commands
-- **📚 Learning Platform**: Business education and skill development
+- ** MPESA-First Design**: Built specifically for Kenyan MPESA ecosystem
+- ** AI-Powered Intelligence**: Machine learning for transaction categorization and predictions
+- ** Enterprise Security**: End-to-end encryption and secure data handling
+- ** Community Network**: Connect with suppliers, buyers, and other businesses
+- ** Voice Assistant**: Swahili and English voice commands
+- ** Learning Platform**: Business education and skill development
 
-## ✨ Features
+##  Features
 
 ### 🏗️ Core Features (MVP)
 - [x] **MPESA SMS Extraction**: Automatic parsing of MPESA transaction SMS
@@ -78,7 +78,7 @@ BizBot Kenya is a comprehensive business intelligence platform designed specific
 - **Monitoring**: Winston logging
 - **Security**: Helmet.js, rate limiting
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+ 
@@ -312,7 +312,7 @@ We welcome contributions from the community! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Safaricom MPESA**: For revolutionizing mobile money in Kenya
 - **Kenyan Business Community**: For inspiration and feedback
